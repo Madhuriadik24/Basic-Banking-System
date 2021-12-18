@@ -9,8 +9,8 @@ This is a simple dynamic website project for  The Spark Foundation. A web applic
 * PHP
 * MYSQL
 # For Demo
-Youtube Link : https://www.youtube.com/watch?v=tWyw6Gg0IU0&t=6s
-LinkedIn Link : https://www.linkedin.com/posts/madhuri-adik-830131171_connections-task1-gripdecember21-activity-6877214743875072000-_KU3
+*Youtube Link : https://www.youtube.com/watch?v=tWyw6Gg0IU0&t=6s
+*LinkedIn Link : https://www.linkedin.com/posts/madhuri-adik-830131171_connections-task1-gripdecember21-activity-6877214743875072000-_KU3
 # Flow of the website
 Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
 ************************************************************************************************************************
